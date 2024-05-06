@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+body{
+        font-family: "Tilt Neon", sans-serif;
+        font-optical-sizing: auto;
+        
+}
+
+.section1, .section2{
+    width: 50%;
+}
+
+#navegacion {
+    background-color: beige;
+}
+
+.titulo1{
+    text-align: center;
+    font-size: 200%;
+    background-color: rgb(145, 43, 43);
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.titulojuego {
+    color: white;
+}
+
+.imagenj1 {
+    width: 100%;
+    text-align: center;
+}
+
+.imagenjuego {
+    width: 100%;
+}
+
+
+.accordion-item{
+
+    width: 100%;
+    
+}
+
+.section2 {
+    padding-right: 6%;
+    align-content: center;
+}
+
+.section1 {
+    padding-left: 6%;
+    align-content: center;
+}
+
+.divtrailer {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(145, 43, 43) ;
+    padding: 5%;
+}
+
+.trailer {
+    width: 80%;
+    height: 500px;
+    border: 10px solid beige;
+}
+
+.informacion{
+    width: 100%;
+    align-content: center;
+    padding: 5%;
+}
+
+.todo{
+    display: flex;
+    padding-top: 5%;
+}
+
+.infojuego {
+    text-align: center;
+    font-size: 130%;
+}
+
+.divimgper{
+    width: 20%;
+    margin-left: 40%;
+}
+
+.divimgcoches {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#fondocarrousel {
+    background-color: rgb(145, 43, 43);
+}
+
+.titulojuegos {
+    font-size: 200%;
+    
+}
+
+.descjuegos {
+    font-size: 100%;
+}
+
+.divtxt {
+    background-color: rgba(0, 0, 0, 0.54);
+}
+
+.info{
+    text-align: center;
+    font-size: 130%;
+    color: white;
+    padding-top: 1%;
+}
+
+#apartados {
+    background-color: beige;
+    color:  rgb(145, 43, 43);
+}
+
+.cntinfo{
+    width: 100%;
+    background-color: rgb(145, 43, 43);
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.titapartados{
+    font-size: 150%;
+}
+
+.seccionvolver {
+    background-color: rgb(145, 43, 43);
+    width: 100%;
+}
+
+.volver {
+    font-size: 150%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 5%;
+}
+
+@media screen and (max-width:1100px ) {
+.infojuego {
+    font-size: 90%;
+}
+    
+}
+
+@media screen and (max-width:700px ) {
+    .todo {
+        display: block;
+    }
+        
+    .section1, .section2{
+        width: 100%;
+        padding: 5%;
+    }
+
+    .trailer {
+        height: 300px;
+    }
+}

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+body{
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+    background-color: beige;
+}
+
+#navegacion {
+    background-color: beige;
+}
+
+.imglogo  {
+    width: 100%;
+    text-align: center;
+}
+
+.imagen {
+    width: 20%;
+}
+
+.divtxt {
+    background-color: rgba(0, 0, 0, 0.54);
+}
+
+.titulojuegos {
+    font-size: 200%;
+}
+
+.descjuegos {
+    font-size: 100%;
+}
+
+.divparacarrusel {
+    width: 100%;
+    border: 5px solid rgb(145, 43, 43);
+}
+
+.divtitulo {
+    background-color: rgb(145, 43, 43);
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#indexseccion2 {
+    width: 85%;
+    padding-left: 15%;
+}
+
+.decoracion {
+    background-color: white;
+    padding-bottom: 5%;
+}
+
+#divnavegador {
+    background-color: beige;
+}
+
+.titulo{
+    font-size: 350%;
+    color: white; 
+}
+
+.imagen {
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+.divtexto {
+    color:  rgb(145, 43, 43);
+    padding-top: 2%;
+    font-size: 160%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.divgrandecarrusel {
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+
+.divtexto2 {
+    color:  rgb(255, 255, 255);
+    background-color: rgb(145, 43, 43);
+    padding-top: 1%;
+    font-size: 200%;
+    text-align: center;
+    padding-bottom: 1%;
+}
